@@ -48,7 +48,7 @@ TimeLocal	1
 TimeServer	0
 ActiveLS_H	0
 ActiveLS_L	0
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
@@ -144,7 +144,7 @@ NamePlateColorSelf	4294901736
 NamePlateEdgeSelf	4288172040
 NamePlateDispTypeSelf	0
 NamePlateNameTypeSelf	0
-NamePlateHpTypeSelf	1
+NamePlateHpTypeSelf	2
 NamePlateColorSelfBuddy	4293066729
 NamePlateEdgeSelfBuddy	4278213930
 NamePlateDispTypeSelfBuddy	0
@@ -311,7 +311,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
