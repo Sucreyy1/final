@@ -43,7 +43,7 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
+TimeEorzea	1
 TimeLocal	1
 TimeServer	0
 ActiveLS_H	68354048
@@ -266,7 +266,7 @@ LogTabFilter3	3
 LogChatFilter	1
 LogEnableErrMsgLv1	1
 LogNameType	0
-LogTimeDisp	0
+LogTimeDisp	1
 LogTimeSettingType	0
 LogTimeDispType	0
 IsLogTell	1
